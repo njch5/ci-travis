@@ -20,6 +20,11 @@ After completing this course, you will be able to:
 
 ## What you'll build
 
+![GIF of a pull requests with a pending status, and then clicking into the Travis CI interface to see the build running and passing](https://user-images.githubusercontent.com/16547949/75810964-91ee2f80-5d59-11ea-8e50-2dd54b48d683.gif)
+
+- Completed [source repository](https://github.com/githubtraining/continuous-integration-travis-demo)
+- Sample [build](https://github.com/githubtraining/continuous-integration-travis-demo/runs/483154940) from the working project
+
 ## Prerequisites
 
 ## Projects used
