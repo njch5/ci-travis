@@ -1,5 +1,7 @@
 Once you've written code on GitHub, how do you make sure it's bug free? Continuous integration (CI) is a requirement in modern software development. Adding automated tests and controls to your pipeline saves you time and gives your team improved reliability. 
 
+## What you'll learn 
+
 After completing this course, you will be able to:
 
 - Identify when a project is using continuous integration
@@ -9,3 +11,11 @@ After completing this course, you will be able to:
 - Add tests for your project 
 - Define continuous delivery
 - Define continuous deployment
+
+## What you'll build
+
+## Prerequisites
+
+## Projects used
+
+## Audience
