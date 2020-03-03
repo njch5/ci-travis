@@ -38,3 +38,5 @@ This makes use of the following open source projects. Consider exploring these r
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer): Test your rendered HTML files to make sure they're accurate.
 
 ## Audience
+
+Developers, DevOps engineers, IT Operations, teams
