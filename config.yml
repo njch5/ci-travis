@@ -1,8 +1,8 @@
 title: Continuous integration with Travis CI
-tagline: Learn about the principles of continuous integration with GitHub and Travis CI.
 description: Learn about the principles of continuous integration with GitHub and Travis CI.
-tags:
-  - Continuous Integration
+tags: [
+  "continuous integration (CI)", "test-driven development (TDD)", "YAML", "protected branches", "commit status"
+]
 template:
     name: continuous-integration-travis
     repo: ci-travis-template
